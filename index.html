@@ -47,8 +47,15 @@
         <div class="container">
             <div class="information__covid">
                 <div class="information__covid__map text-center">
-                    <img class="rounded" src="img/covid_info_map.png" alt="#">
+                    <img class="rounded main_covid_map" src="img/covid_info_map.png" alt="#">
+                    <button type="button" class="btn btn-link button_1" data-toggle="modal" data-target="#popup_1">
+                      <img class="btn_img" src="icons/popup_open_icon.jpg" alt="Vairāk informācija">
+                    </button>
+                    <button type="button" class="btn btn-link button_2" data-toggle="modal" data-target="#popup_2">
+                      <img class="btn_img" src="icons/popup_open_icon.jpg" alt="Vairāk informācija">
+                    </button>
                 </div>
+
                 <div class="info__blocks row">
                     <div class="info_block col-md">
                         <h2>LOREM</h2>
@@ -68,7 +75,57 @@
                     </div>
                 </div>
             </div>
+        </div>        
+      </div>
+      <!-- Button trigger modal -->
+      
+
+      <!-- Modal Rīga -->
+      <div class="modal fade" id="popup_1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="exampleModalLabel">Jūsu iespēja saslimt ir: ZEMA</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo atque aperiam eveniet, voluptates quia nemo, assumenda nesciunt debitis mollitia iusto adipisci optio ab iste nostrum veniam esse pariatur. Possimus, labore.
+              Dignissimos saepe minus id ullam earum ipsa officiis quos, nemo veritatis, voluptates atque deserunt rem similique voluptatum inventore totam nulla error repellat provident architecto, sed eius cumque aliquid. Odio, unde.
+              Repellat optio maiores, maxime saepe porro repellendus consectetur praesentium, blanditiis soluta quia est aspernatur excepturi eum tempora accusamus ducimus tenetur consequatur accusantium pariatur expedita unde labore. Fugit, odit quo. Nobis!
+              Temporibus laborum qui esse quae. Veritatis doloremque voluptatibus quia numquam odit et praesentium accusantium laborum tempore doloribus iste, ipsum minus, voluptates laboriosam est consectetur voluptatem blanditiis accusamus ex. Ducimus, earum!
+              Nihil quam, omnis veritatis ipsum eius aliquam consequuntur odit in autem dolorum quia dolorem ut beatae soluta corporis ad amet facilis officia non doloribus! Facere quos ratione eligendi accusamus numquam!
+            </div>
+            <div class="modal-footer">
+              <h5 class="modal-title" id="exampleModalLabel">Reģions: Rīga</h5>
+            </div>
+          </div>
         </div>
+      </div>
+      <!-- Modal Jurmala -->
+      <div class="modal fade" id="popup_2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="exampleModalLabel">Jūsu iespēja saslimt ir: ĻOTI AUGSTA</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo atque aperiam eveniet, voluptates quia nemo, assumenda nesciunt debitis mollitia iusto adipisci optio ab iste nostrum veniam esse pariatur. Possimus, labore.
+              Dignissimos saepe minus id ullam earum ipsa officiis quos, nemo veritatis, voluptates atque deserunt rem similique voluptatum inventore totam nulla error repellat provident architecto, sed eius cumque aliquid. Odio, unde.
+              Repellat optio maiores, maxime saepe porro repellendus consectetur praesentium, blanditiis soluta quia est aspernatur excepturi eum tempora accusamus ducimus tenetur consequatur accusantium pariatur expedita unde labore. Fugit, odit quo. Nobis!
+              Temporibus laborum qui esse quae. Veritatis doloremque voluptatibus quia numquam odit et praesentium accusantium laborum tempore doloribus iste, ipsum minus, voluptates laboriosam est consectetur voluptatem blanditiis accusamus ex. Ducimus, earum!
+              Nihil quam, omnis veritatis ipsum eius aliquam consequuntur odit in autem dolorum quia dolorem ut beatae soluta corporis ad amet facilis officia non doloribus! Facere quos ratione eligendi accusamus numquam!
+            </div>
+            <div class="modal-footer">
+              <h5 class="modal-title" id="exampleModalLabel">Reģions: Jūrmala</h5>
+            </div>
+          </div>
+        </div>
+      </div>
     </main>
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>

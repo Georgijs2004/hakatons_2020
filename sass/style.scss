@@ -107,3 +107,36 @@ h2 {
         }
     }
 }
+
+/*popup*/
+
+.information__covid__map {
+    position: relative;
+}
+
+.button_1 {
+    position: absolute;
+    top: 40%;
+    left: 46%;
+}
+
+.button_2 {
+    position: absolute;
+    top: 44.5%;
+    left: 42%;
+}
+
+.btn {
+    outline: 0;
+    box-shadow: none;
+
+    &:focus {
+        outline: 0;
+        box-shadow: none !important;
+    }
+}
+
+.focus {
+    outline: 0;
+    sbox-shadow: none;
+}
