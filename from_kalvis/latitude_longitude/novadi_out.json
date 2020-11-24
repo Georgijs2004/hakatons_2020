@@ -1,0 +1,835 @@
+[
+    {
+        "address": "Daugavpils, Latgale, Latvija",
+        "inhabitants": 90939,
+        "latitude": 55.8712267,
+        "longitude": 26.5159337,
+        "novads": "DAUGAVPILS"
+    },
+    {
+        "address": "Jelgava, Zemgale, Latvija",
+        "inhabitants": 60645,
+        "latitude": 56.6514394,
+        "longitude": 23.7339143,
+        "novads": "JELGAVA"
+    },
+    {
+        "address": "Jēkabpils, Zemgale, Latvija",
+        "inhabitants": 23241,
+        "latitude": 56.4958638,
+        "longitude": 25.8687747,
+        "novads": "JĒKABPILS"
+    },
+    {
+        "address": "Jūrmala, Vidzeme, Latvija",
+        "inhabitants": 58117,
+        "latitude": 56.9727164,
+        "longitude": 23.7886979,
+        "novads": "JŪRMALA"
+    },
+    {
+        "address": "Liepāja, Kurzeme, Latvija",
+        "inhabitants": 76060,
+        "latitude": 56.5048435,
+        "longitude": 21.0070903,
+        "novads": "LIEPĀJA"
+    },
+    {
+        "address": "Rēzekne, Latgale, Latvija",
+        "inhabitants": 29956,
+        "latitude": 56.506281,
+        "longitude": 27.3306623,
+        "novads": "RĒZEKNE"
+    },
+    {
+        "address": "Rīga, Vidzeme, Latvija",
+        "inhabitants": 688631,
+        "latitude": 56.9493977,
+        "longitude": 24.1051846,
+        "novads": "RĪGA"
+    },
+    {
+        "address": "Valmiera, Vidzeme, LV-4201, Latvija",
+        "inhabitants": 24899,
+        "latitude": 57.5389148,
+        "longitude": 25.4261688,
+        "novads": "VALMIERA"
+    },
+    {
+        "address": "Ventspils, Kurzeme, Latvija",
+        "inhabitants": 37313,
+        "latitude": 57.3903918,
+        "longitude": 21.5635991,
+        "novads": "VENTSPILS"
+    },
+    {
+        "address": "Aglonas novads, Latgale, Latvija",
+        "inhabitants": 3349,
+        "latitude": 56.1030997,
+        "longitude": 27.05839857487411,
+        "novads": "AGLONAS NOVADS"
+    },
+    {
+        "address": "Aizkraukles novads, Zemgale, LV-5101, Latvija",
+        "inhabitants": 8528,
+        "latitude": 56.6410962,
+        "longitude": 25.234891947645714,
+        "novads": "AIZKRAUKLES NOVADS"
+    },
+    {
+        "address": "Aizputes novads, Kurzeme, Latvija",
+        "inhabitants": 8519,
+        "latitude": 56.71234835,
+        "longitude": 21.55009082280246,
+        "novads": "AIZPUTES NOVADS"
+    },
+    {
+        "address": "Aknīstes novads, Zemgale, LV-5208, Latvija",
+        "inhabitants": 2550,
+        "latitude": 56.14628465,
+        "longitude": 25.820929263525187,
+        "novads": "AKNĪSTES NOVADS"
+    },
+    {
+        "address": "Alojas novads, Vidzeme, Latvija",
+        "inhabitants": 4797,
+        "latitude": 57.79973914999999,
+        "longitude": 24.82739983599805,
+        "novads": "ALOJAS NOVADS"
+    },
+    {
+        "address": "Alsungas novads, Kurzeme, LV-3306, Latvija",
+        "inhabitants": 1361,
+        "latitude": 56.98425425,
+        "longitude": 21.581116215190058,
+        "novads": "ALSUNGAS NOVADS"
+    },
+    {
+        "address": "Alūksnes novads, Vidzeme, Latvija",
+        "inhabitants": 15558,
+        "latitude": 57.4290479,
+        "longitude": 27.121042859223856,
+        "novads": "ALŪKSNES NOVADS"
+    },
+    {
+        "address": "Amatas novads, Vidzeme, Latvija",
+        "inhabitants": 5375,
+        "latitude": 57.1137969,
+        "longitude": 25.34268500899629,
+        "novads": "AMATAS NOVADS"
+    },
+    {
+        "address": "Apes novads, Vidzeme, LV-4339, Latvija",
+        "inhabitants": 3458,
+        "latitude": 57.451159700000005,
+        "longitude": 26.512405178594218,
+        "novads": "APES NOVADS"
+    },
+    {
+        "address": "Auces novads, Zemgale, Latvija",
+        "inhabitants": 6742,
+        "latitude": 56.4539982,
+        "longitude": 22.941385366038773,
+        "novads": "AUCES NOVADS"
+    },
+    {
+        "address": "Ādažu novads, Vidzeme, LV-2164, Latvija",
+        "inhabitants": 12284,
+        "latitude": 57.10779515,
+        "longitude": 24.400067736077492,
+        "novads": "ĀDAŽU NOVADS"
+    },
+    {
+        "address": "Babītes novads, Vidzeme, Latvija",
+        "inhabitants": 12151,
+        "latitude": 56.895025399999994,
+        "longitude": 23.703034741287443,
+        "novads": "BABĪTES NOVADS"
+    },
+    {
+        "address": "Baldones novads, Vidzeme, LV-2125, Latvija",
+        "inhabitants": 5724,
+        "latitude": 56.7272787,
+        "longitude": 24.37487570103135,
+        "novads": "BALDONES NOVADS"
+    },
+    {
+        "address": "Baltinavas novads, Latgale, Latvija",
+        "inhabitants": 1007,
+        "latitude": 56.92355285,
+        "longitude": 27.63224086910637,
+        "novads": "BALTINAVAS NOVADS"
+    },
+    {
+        "address": "Balvu novads, Latgale, Latvija",
+        "inhabitants": 12608,
+        "latitude": 57.0336082,
+        "longitude": 27.440958889460042,
+        "novads": "BALVU NOVADS"
+    },
+    {
+        "address": "Bauskas novads, Zemgale, Latvija",
+        "inhabitants": 23687,
+        "latitude": 56.39924595,
+        "longitude": 24.32423564664746,
+        "novads": "BAUSKAS NOVADS"
+    },
+    {
+        "address": "Beverīnas novads, Vidzeme, Latvija",
+        "inhabitants": 3092,
+        "latitude": 57.5264359,
+        "longitude": 25.613101283839107,
+        "novads": "BEVERĪNAS NOVADS"
+    },
+    {
+        "address": "Brocēnu novads, Kurzeme, Latvija",
+        "inhabitants": 6269,
+        "latitude": 56.705732049999995,
+        "longitude": 22.67115742606432,
+        "novads": "BROCĒNU NOVADS"
+    },
+    {
+        "address": "Burtnieku novads, Vidzeme, LV-4219, Latvija",
+        "inhabitants": 7588,
+        "latitude": 57.694539649999996,
+        "longitude": 25.35078790651723,
+        "novads": "BURTNIEKU NOVADS"
+    },
+    {
+        "address": "Carnikavas novads, Vidzeme, LV-2163, Latvija",
+        "inhabitants": 9695,
+        "latitude": 57.1262798,
+        "longitude": 24.271346083999035,
+        "novads": "CARNIKAVAS NOVADS"
+    },
+    {
+        "address": "Cesvaines novads, Vidzeme, LV-4871, Latvija",
+        "inhabitants": 2435,
+        "latitude": 57.00907815,
+        "longitude": 26.275536248692447,
+        "novads": "CESVAINES NOVADS"
+    },
+    {
+        "address": "Cēsu novads, Vidzeme, Latvija",
+        "inhabitants": 18116,
+        "latitude": 57.245544800000005,
+        "longitude": 25.40088068256742,
+        "novads": "CĒSU NOVADS"
+    },
+    {
+        "address": "Ciblas novads, Latgale, Latvija",
+        "inhabitants": 2536,
+        "latitude": 56.59583865,
+        "longitude": 27.799614734725118,
+        "novads": "CIBLAS NOVADS"
+    },
+    {
+        "address": "Dagdas novads, Latgale, Latvija",
+        "inhabitants": 7019,
+        "latitude": 56.1182754,
+        "longitude": 27.594751359623885,
+        "novads": "DAGDAS NOVADS"
+    },
+    {
+        "address": "Daugavpils novads, Latgale, Latvija",
+        "inhabitants": 21850,
+        "latitude": 55.9415378,
+        "longitude": 26.769756560256234,
+        "novads": "DAUGAVPILS NOVADS"
+    },
+    {
+        "address": "Dobeles novads, Zemgale, Latvija",
+        "inhabitants": 20740,
+        "latitude": 56.6320029,
+        "longitude": 23.142759333900436,
+        "novads": "DOBELES NOVADS"
+    },
+    {
+        "address": "Dundagas novads, Kurzeme, Latvija",
+        "inhabitants": 3810,
+        "latitude": 57.576836650000004,
+        "longitude": 22.42134223435992,
+        "novads": "DUNDAGAS NOVADS"
+    },
+    {
+        "address": "Durbes novads, Kurzeme, LV-3440, Latvija",
+        "inhabitants": 2794,
+        "latitude": 56.6320887,
+        "longitude": 21.426009839875107,
+        "novads": "DURBES NOVADS"
+    },
+    {
+        "address": "Engures novads, Kurzeme, Latvija",
+        "inhabitants": 7380,
+        "latitude": 57.1148182,
+        "longitude": 23.2116036588653,
+        "novads": "ENGURES NOVADS"
+    },
+    {
+        "address": "Ērgļu novads, Vidzeme, Latvija",
+        "inhabitants": 2839,
+        "latitude": 56.884800850000005,
+        "longitude": 25.64535878721277,
+        "novads": "ĒRGĻU NOVADS"
+    },
+    {
+        "address": "Garkalnes novads, Vidzeme, Latvija",
+        "inhabitants": 9613,
+        "latitude": 57.0252024,
+        "longitude": 24.36058387053181,
+        "novads": "GARKALNES NOVADS"
+    },
+    {
+        "address": "Grobiņas novads, Kurzeme, LV-3430, Latvija",
+        "inhabitants": 8994,
+        "latitude": 56.5068506,
+        "longitude": 21.200932924473385,
+        "novads": "GROBIŅAS NOVADS"
+    },
+    {
+        "address": "Gulbenes novads, Vidzeme, Latvija",
+        "inhabitants": 20976,
+        "latitude": 57.17646275,
+        "longitude": 26.611259297795407,
+        "novads": "GULBENES NOVADS"
+    },
+    {
+        "address": "Iecavas novads, Zemgale, LV-3913, Latvija",
+        "inhabitants": 8984,
+        "latitude": 56.610040600000005,
+        "longitude": 24.199848959844715,
+        "novads": "IECAVAS NOVADS"
+    },
+    {
+        "address": "Ikšķiles novads, Zemgale, Latvija",
+        "inhabitants": 10433,
+        "latitude": 56.85649175,
+        "longitude": 24.592123985778244,
+        "novads": "IKŠĶILES NOVADS"
+    },
+    {
+        "address": "Ilūkstes novads, Latgale, Latvija",
+        "inhabitants": 6984,
+        "latitude": 55.993121349999996,
+        "longitude": 26.146342710688323,
+        "novads": "ILŪKSTES NOVADS"
+    },
+    {
+        "address": "Inčukalna novads, Vidzeme, Latvija",
+        "inhabitants": 8229,
+        "latitude": 57.1043843,
+        "longitude": 24.627287632599092,
+        "novads": "INČUKALNA NOVADS"
+    },
+    {
+        "address": "Jaunjelgavas novads, Zemgale, Latvija",
+        "inhabitants": 5460,
+        "latitude": 56.5197555,
+        "longitude": 25.29342173664221,
+        "novads": "JAUNJELGAVAS NOVADS"
+    },
+    {
+        "address": "Jaunpiebalgas novads, Vidzeme, Latvija",
+        "inhabitants": 2172,
+        "latitude": 57.148080050000004,
+        "longitude": 25.961450474104907,
+        "novads": "JAUNPIEBALGAS NOVADS"
+    },
+    {
+        "address": "Jaunpils novads, Kurzeme, LV-3145, Latvija",
+        "inhabitants": 2309,
+        "latitude": 56.7742217,
+        "longitude": 22.941987517297214,
+        "novads": "JAUNPILS NOVADS"
+    },
+    {
+        "address": "Jelgavas novads, Zemgale, Latvija",
+        "inhabitants": 23269,
+        "latitude": 56.6081664,
+        "longitude": 23.54318141979509,
+        "novads": "JELGAVAS NOVADS"
+    },
+    {
+        "address": "Jēkabpils novads, Zemgale, Latvija",
+        "inhabitants": 4387,
+        "latitude": 56.28050185,
+        "longitude": 25.932108478543057,
+        "novads": "JĒKABPILS NOVADS"
+    },
+    {
+        "address": "Kandavas novads, Kurzeme, LV-3120, Latvija",
+        "inhabitants": 8059,
+        "latitude": 56.9714174,
+        "longitude": 22.636640261967344,
+        "novads": "KANDAVAS NOVADS"
+    },
+    {
+        "address": "Kārsavas novads, Latgale, Latvija",
+        "inhabitants": 5524,
+        "latitude": 56.74705535,
+        "longitude": 27.716342121336314,
+        "novads": "KĀRSAVAS NOVADS"
+    },
+    {
+        "address": "Kocēnu novads, Vidzeme, Latvija",
+        "inhabitants": 6147,
+        "latitude": 57.5288955,
+        "longitude": 25.217884187916006,
+        "novads": "KOCĒNU NOVADS"
+    },
+    {
+        "address": "Kokneses novads, Zemgale, LV-5113, Latvija",
+        "inhabitants": 5274,
+        "latitude": 56.70246805,
+        "longitude": 25.43211244773681,
+        "novads": "KOKNESES NOVADS"
+    },
+    {
+        "address": "Krāslavas novads, Latgale, Latvija",
+        "inhabitants": 15328,
+        "latitude": 55.93714325,
+        "longitude": 27.3018173261704,
+        "novads": "KRĀSLAVAS NOVADS"
+    },
+    {
+        "address": "Krimuldas novads, Vidzeme, Latvija",
+        "inhabitants": 5049,
+        "latitude": 57.26887615,
+        "longitude": 24.822888292237984,
+        "novads": "KRIMULDAS NOVADS"
+    },
+    {
+        "address": "Krustpils novads, Zemgale, LV-5203, Latvija",
+        "inhabitants": 5830,
+        "latitude": 56.53708005,
+        "longitude": 26.192887544229272,
+        "novads": "KRUSTPILS NOVADS"
+    },
+    {
+        "address": "Kuldīgas novads, Kurzeme, Latvija",
+        "inhabitants": 23333,
+        "latitude": 56.93611475,
+        "longitude": 22.051186898040584,
+        "novads": "KULDĪGAS NOVADS"
+    },
+    {
+        "address": "Ķeguma novads, Zemgale, Latvija",
+        "inhabitants": 5657,
+        "latitude": 56.69240395,
+        "longitude": 24.756474835030552,
+        "novads": "ĶEGUMA NOVADS"
+    },
+    {
+        "address": "Ķekavas novads, Vidzeme, Latvija",
+        "inhabitants": 25435,
+        "latitude": 56.8136438,
+        "longitude": 24.31863794905605,
+        "novads": "ĶEKAVAS NOVADS"
+    },
+    {
+        "address": "Lielvārdes novads, Zemgale, Latvija",
+        "inhabitants": 10274,
+        "latitude": 56.71113805,
+        "longitude": 24.92099979892526,
+        "novads": "LIELVĀRDES NOVADS"
+    },
+    {
+        "address": "Limbažu novads, Vidzeme, Latvija",
+        "inhabitants": 17565,
+        "latitude": 57.4915046,
+        "longitude": 24.809943789351422,
+        "novads": "LIMBAŽU NOVADS"
+    },
+    {
+        "address": "Līgatnes novads, Vidzeme, Latvija",
+        "inhabitants": 3489,
+        "latitude": 57.1895894,
+        "longitude": 25.068245591441645,
+        "novads": "LĪGATNES NOVADS"
+    },
+    {
+        "address": "Līvānu novads, Latgale, Latvija",
+        "inhabitants": 11688,
+        "latitude": 56.3516659,
+        "longitude": 26.33378571739226,
+        "novads": "LĪVĀNU NOVADS"
+    },
+    {
+        "address": "Lubānas novads, Vidzeme, LV-4830, Latvija",
+        "inhabitants": 2279,
+        "latitude": 56.8964911,
+        "longitude": 26.745036379542867,
+        "novads": "LUBĀNAS NOVADS"
+    },
+    {
+        "address": "Ludzas novads, Latgale, Latvija",
+        "inhabitants": 12688,
+        "latitude": 56.3774554,
+        "longitude": 27.827651295328177,
+        "novads": "LUDZAS NOVADS"
+    },
+    {
+        "address": "Madonas novads, Vidzeme, Latvija",
+        "inhabitants": 23387,
+        "latitude": 56.843716900000004,
+        "longitude": 26.11679115349572,
+        "novads": "MADONAS NOVADS"
+    },
+    {
+        "address": "Mazsalacas novads, Vidzeme, LV-4215, Latvija",
+        "inhabitants": 3111,
+        "latitude": 57.93134995,
+        "longitude": 24.992549583576626,
+        "novads": "MAZSALACAS NOVADS"
+    },
+    {
+        "address": "Mālpils novads, Vidzeme, LV-2152, Latvija",
+        "inhabitants": 3510,
+        "latitude": 57.0134276,
+        "longitude": 24.997239017511262,
+        "novads": "MĀLPILS NOVADS"
+    },
+    {
+        "address": "Mārupes novads, Vidzeme, Latvija",
+        "inhabitants": 23930,
+        "latitude": 56.88487135,
+        "longitude": 23.954374975818403,
+        "novads": "MĀRUPES NOVADS"
+    },
+    {
+        "address": "Mērsraga novads, Kurzeme, LV-3284, Latvija",
+        "inhabitants": 1522,
+        "latitude": 57.3133442,
+        "longitude": 23.026248191839358,
+        "novads": "MĒRSRAGA NOVADS"
+    },
+    {
+        "address": "Naukšēnu novads, Vidzeme, LV-4244, Latvija",
+        "inhabitants": 1790,
+        "latitude": 57.8875811,
+        "longitude": 25.532695934127187,
+        "novads": "NAUKŠĒNU NOVADS"
+    },
+    {
+        "address": "Neretas novads, Zemgale, Latvija",
+        "inhabitants": 3438,
+        "latitude": 56.3237677,
+        "longitude": 25.169463201445595,
+        "novads": "NERETAS NOVADS"
+    },
+    {
+        "address": "Nīcas novads, Kurzeme, Latvija",
+        "inhabitants": 3266,
+        "latitude": 56.3262114,
+        "longitude": 21.08695497771307,
+        "novads": "NĪCAS NOVADS"
+    },
+    {
+        "address": "Ogres novads, Zemgale, Latvija",
+        "inhabitants": 35205,
+        "latitude": 56.8463231,
+        "longitude": 25.112771798042274,
+        "novads": "OGRES NOVADS"
+    },
+    {
+        "address": "Olaines novads, Vidzeme, Latvija",
+        "inhabitants": 20754,
+        "latitude": 56.802358,
+        "longitude": 23.9487242343554,
+        "novads": "OLAINES NOVADS"
+    },
+    {
+        "address": "Ozolnieku novads, Zemgale, Latvija",
+        "inhabitants": 10726,
+        "latitude": 56.62813575,
+        "longitude": 23.949501301566997,
+        "novads": "OZOLNIEKU NOVADS"
+    },
+    {
+        "address": "Pārgaujas novads, Vidzeme, Latvija",
+        "inhabitants": 3830,
+        "latitude": 57.3749583,
+        "longitude": 25.1145654605127,
+        "novads": "PĀRGAUJAS NOVADS"
+    },
+    {
+        "address": "Pāvilostas novads, Kurzeme, Latvija",
+        "inhabitants": 2744,
+        "latitude": 56.8002165,
+        "longitude": 21.17463428400456,
+        "novads": "PĀVILOSTAS NOVADS"
+    },
+    {
+        "address": "Pļaviņu novads, Zemgale, LV-5129, Latvija",
+        "inhabitants": 5115,
+        "latitude": 56.70041365,
+        "longitude": 25.720894402833004,
+        "novads": "PĻAVIŅU NOVADS"
+    },
+    {
+        "address": "Preiļu novads, Latgale, LV-5301, Latvija",
+        "inhabitants": 9605,
+        "latitude": 56.284867250000005,
+        "longitude": 26.72374714213573,
+        "novads": "PREIĻU NOVADS"
+    },
+    {
+        "address": "Priekules novads, Kurzeme, LV-3434, Latvija",
+        "inhabitants": 5307,
+        "latitude": 56.4320304,
+        "longitude": 21.549988023562516,
+        "novads": "PRIEKULES NOVADS"
+    },
+    {
+        "address": "Priekuļu novads, Vidzeme, Latvija",
+        "inhabitants": 8256,
+        "latitude": 57.34064685,
+        "longitude": 25.383233573893833,
+        "novads": "PRIEKUĻU NOVADS"
+    },
+    {
+        "address": "Raunas novads, Vidzeme, Latvija",
+        "inhabitants": 3157,
+        "latitude": 57.23740815,
+        "longitude": 25.87588052657172,
+        "novads": "RAUNAS NOVADS"
+    },
+    {
+        "address": "Rēzeknes novads, Latgale, Latvija",
+        "inhabitants": 25901,
+        "latitude": 56.501046349999996,
+        "longitude": 27.17354100035096,
+        "novads": "RĒZEKNES NOVADS"
+    },
+    {
+        "address": "Riebiņu novads, Latgale, Latvija",
+        "inhabitants": 4853,
+        "latitude": 56.342329,
+        "longitude": 26.81259518976011,
+        "novads": "RIEBIŅU NOVADS"
+    },
+    {
+        "address": "Rojas novads, Kurzeme, Latvija",
+        "inhabitants": 3642,
+        "latitude": 57.5242442,
+        "longitude": 22.685076617310017,
+        "novads": "ROJAS NOVADS"
+    },
+    {
+        "address": "Ropažu novads, Vidzeme, Latvija",
+        "inhabitants": 7422,
+        "latitude": 56.97852865,
+        "longitude": 24.605470837315913,
+        "novads": "ROPAŽU NOVADS"
+    },
+    {
+        "address": "Rucavas novads, Kurzeme, Latvija",
+        "inhabitants": 1589,
+        "latitude": 56.21675275,
+        "longitude": 21.23033176418031,
+        "novads": "RUCAVAS NOVADS"
+    },
+    {
+        "address": "Rugāju novads, Latgale, Latvija",
+        "inhabitants": 2123,
+        "latitude": 56.98084825,
+        "longitude": 27.072290408056205,
+        "novads": "RUGĀJU NOVADS"
+    },
+    {
+        "address": "Rundāles novads, Zemgale, LV-3921, Latvija",
+        "inhabitants": 3597,
+        "latitude": 56.4175838,
+        "longitude": 23.97140772964732,
+        "novads": "RUNDĀLES NOVADS"
+    },
+    {
+        "address": "Rūjienas novads, Vidzeme, Latvija",
+        "inhabitants": 4979,
+        "latitude": 57.9318047,
+        "longitude": 25.202730795736827,
+        "novads": "RŪJIENAS NOVADS"
+    },
+    {
+        "address": "Salacgrīvas novads, Vidzeme, Latvija",
+        "inhabitants": 7645,
+        "latitude": 57.6781192,
+        "longitude": 24.46246124035349,
+        "novads": "SALACGRĪVAS NOVADS"
+    },
+    {
+        "address": "Salas novads, Zemgale, LV-5230, Latvija",
+        "inhabitants": 3514,
+        "latitude": 56.48613495,
+        "longitude": 25.710161032238496,
+        "novads": "SALAS NOVADS"
+    },
+    {
+        "address": "Salaspils novads, Vidzeme, Latvija",
+        "inhabitants": 24091,
+        "latitude": 56.8731432,
+        "longitude": 24.367530290581165,
+        "novads": "SALASPILS NOVADS"
+    },
+    {
+        "address": "Saldus novads, Kurzeme, Latvija",
+        "inhabitants": 23563,
+        "latitude": 56.63964085,
+        "longitude": 22.315371742658257,
+        "novads": "SALDUS NOVADS"
+    },
+    {
+        "address": "Saulkrastu novads, Vidzeme, Latvija",
+        "inhabitants": 7532,
+        "latitude": 57.26706215,
+        "longitude": 24.444578724338264,
+        "novads": "SAULKRASTU NOVADS"
+    },
+    {
+        "address": "Sējas novads, Vidzeme, Latvija",
+        "inhabitants": 2330,
+        "latitude": 57.21396015,
+        "longitude": 24.54618500888032,
+        "novads": "SĒJAS NOVADS"
+    },
+    {
+        "address": "Siguldas novads, Vidzeme, Latvija",
+        "inhabitants": 19125,
+        "latitude": 57.0998405,
+        "longitude": 25.00267129903211,
+        "novads": "SIGULDAS NOVADS"
+    },
+    {
+        "address": "Skrīveru novads, Zemgale, Latvija",
+        "inhabitants": 3516,
+        "latitude": 56.671838449999996,
+        "longitude": 25.09896262388763,
+        "novads": "SKRĪVERU NOVADS"
+    },
+    {
+        "address": "Skrundas novads, Kurzeme, Latvija",
+        "inhabitants": 4870,
+        "latitude": 56.66581055,
+        "longitude": 21.962624840241027,
+        "novads": "SKRUNDAS NOVADS"
+    },
+    {
+        "address": "Smiltenes novads, Vidzeme, Latvija",
+        "inhabitants": 12646,
+        "latitude": 57.413851199999996,
+        "longitude": 26.001883974868566,
+        "novads": "SMILTENES NOVADS"
+    },
+    {
+        "address": "Stopiņu novads, Vidzeme, Latvija",
+        "inhabitants": 12389,
+        "latitude": 56.9432021,
+        "longitude": 24.2840661,
+        "novads": "STOPIŅU NOVADS"
+    },
+    {
+        "address": "Strenču novads, Vidzeme, Latvija",
+        "inhabitants": 3220,
+        "latitude": 57.60843425,
+        "longitude": 25.817417782181977,
+        "novads": "STRENČU NOVADS"
+    },
+    {
+        "address": "Talsu novads, Kurzeme, Latvija",
+        "inhabitants": 29888,
+        "latitude": 57.25702775,
+        "longitude": 22.65854832713951,
+        "novads": "TALSU NOVADS"
+    },
+    {
+        "address": "Tērvetes novads, Zemgale, Latvija",
+        "inhabitants": 3339,
+        "latitude": 56.46144940000001,
+        "longitude": 23.363939036606233,
+        "novads": "TĒRVETES NOVADS"
+    },
+    {
+        "address": "Tukuma novads, Kurzeme, Latvija",
+        "inhabitants": 29945,
+        "latitude": 56.97174925,
+        "longitude": 22.99746330752139,
+        "novads": "TUKUMA NOVADS"
+    },
+    {
+        "address": "Vaiņodes novads, Kurzeme, Latvija",
+        "inhabitants": 2361,
+        "latitude": 56.4555182,
+        "longitude": 21.83915681366696,
+        "novads": "VAIŅODES NOVADS"
+    },
+    {
+        "address": "Valkas novads, Vidzeme, Latvija",
+        "inhabitants": 8606,
+        "latitude": 57.711414700000006,
+        "longitude": 26.016494561669496,
+        "novads": "VALKAS NOVADS"
+    },
+    {
+        "address": "Varakļānu novads, Vidzeme, LV-4838, Latvija",
+        "inhabitants": 3135,
+        "latitude": 56.624810350000004,
+        "longitude": 26.59916797798747,
+        "novads": "VARAKĻĀNU NOVADS"
+    },
+    {
+        "address": "Vārkavas novads, Latgale, LV-5335, Latvija",
+        "inhabitants": 1873,
+        "latitude": 56.22412305,
+        "longitude": 26.485027158092368,
+        "novads": "VĀRKAVAS NOVADS"
+    },
+    {
+        "address": "Vecpiebalgas novads, Vidzeme, Latvija",
+        "inhabitants": 3793,
+        "latitude": 57.119960899999995,
+        "longitude": 25.723949485284326,
+        "novads": "VECPIEBALGAS NOVADS"
+    },
+    {
+        "address": "Vecumnieku novads, Zemgale, Latvija",
+        "inhabitants": 8236,
+        "latitude": 56.517214249999995,
+        "longitude": 24.73129771504626,
+        "novads": "VECUMNIEKU NOVADS"
+    },
+    {
+        "address": "Ventspils novads, Kurzeme, Latvija",
+        "inhabitants": 11531,
+        "latitude": 57.2981221,
+        "longitude": 21.865437387085443,
+        "novads": "VENTSPILS NOVADS"
+    },
+    {
+        "address": "Viesītes novads, Zemgale, Latvija",
+        "inhabitants": 3722,
+        "latitude": 56.300710699999996,
+        "longitude": 25.519966192595376,
+        "novads": "VIESĪTES NOVADS"
+    },
+    {
+        "address": "Viļakas novads, Latgale, Latvija",
+        "inhabitants": 4805,
+        "latitude": 57.1855848,
+        "longitude": 27.63906682282383,
+        "novads": "VIĻAKAS NOVADS"
+    },
+    {
+        "address": "Viļānu novads, Latgale, LV-4650, Latvija",
+        "inhabitants": 5708,
+        "latitude": 56.56916305,
+        "longitude": 26.88000939579465,
+        "novads": "VIĻĀNU NOVADS"
+    },
+    {
+        "address": "Zilupes novads, Latgale, Latvija",
+        "inhabitants": 2817,
+        "latitude": 56.277686200000005,
+        "longitude": 28.16701571687375,
+        "novads": "ZILUPES NOVADS"
+    }
+]
