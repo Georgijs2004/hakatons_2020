@@ -4,8 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Covid-19 izpaltības informācija</title>
-    <link rel="stylesheet" href="css/style.css">
+    <script src="https://kit.fontawesome.com/b791a12cab.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <header>
@@ -26,58 +27,79 @@
                 <li class="nav-item">
                     <a class="nav-link" href="https://www.vm.gov.lv/">Veselības ministrijas mājaslapa</a>
                 </li>
-                <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Vairāk informācijas par COVID-19
-                  </a>
-                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="#">Action</a>
-                    <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="#">Another action</a>
-                    <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="#">Something else here</a>
-                  </div>
-                </li>
               </ul>
             </div>
           </nav>
     </header>
-
     <main>
-          <div class="container">
-            <div class="information__covid">
-                <div class="information__covid__map text-center">
-                    <img class="rounded main_covid_map" src="img/covid_info_map.png" alt="#">
-                    <!--buttons-->
-                    <button type="button" class="btn btn-link button_1" data-toggle="modal" data-target="#popup_1">
-                      <img class="btn_img" src="icons/popup_open_icon.jpg" alt="Vairāk informācija">
-                    </button>
-                    <button type="button" class="btn btn-link button_2" data-toggle="modal" data-target="#popup_2">
-                      <img class="btn_img" src="icons/popup_open_icon.jpg" alt="Vairāk informācija">
-                    </button>
-                </div>
-
-                <div class="info__blocks row">
-                    <div id="output" class="info_block col-md">
-                      <h2>LOREM</h2>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio deserunt blanditiis omnis eaque facilis soluta, cumque quas molestias voluptatum pariatur qui esse sint ab at reiciendis. Corporis error libero reiciendis.
-                      Quae ipsam est dolor eius nisi officia ut dolore nesciunt optio porro laboriosam eveniet consequuntur, accusantium sint! At temporibus culpa minus beatae reprehenderit ab earum. Deserunt sint quisquam natus harum.
-                      Fugiat, quam delectus. Magnam commodi ad exercitationem perferendis suscipit sequi sit, dicta ratione labore officia ipsa recusandae vitae dolor maxime nihil itaque asperiores, repellendus quaerat, rem consequuntur. Reiciendis, consectetur aliquid?
-                      Excepturi nemo, officiis non deleniti eos ipsam delectus veniam quibusdam id nesciunt, veritatis quaerat dolor ipsa eligendi doloremque. Quod delectus nam ullam sit rem sapiente quam dolore voluptates maiores labore?
+        <div class="container">
+          <div class="information__covid">
+            <div class="information__covid__map text-center">
+              <img class="rounded main_covid_map" src="svg_map/latvijas_novadi_points.svg" alt="#">
+              <!--buttons-->
+              <button type="button" class="btn btn-link button_1" data-toggle="modal" data-target="#popup_1">
+                <img class="btn_img" src="icons/popup_open_icon.png" alt="Vairāk informācija">
+              </button>
+              <button type="button" class="btn btn-link button_2" data-toggle="modal" data-target="#popup_2">
+                <img class="btn_img" src="icons/popup_open_icon.png" alt="Vairāk informācija">
+              </button>
+          </div>
+            <div class="container-fluid information__covid_cards">
+              <h2 class="_info_covid_header">Aktuāla informācija par Covid-19</h2>
+              <div class="row _wrapper_card">
+                <div class="col-sm-6">
+                  <div class="card _wrapper_card_body">
+                    <div class="card-body">
+                      <h5 class="card-title">Lietotne “Apturi Covid”</h5>
+                      <p class="card-text">Apturi vīrusu ar telefonu!</p>
+                      <a href="https://covid19.gov.lv/covid-19/drosibas-pasakumi/lietotne-apturi-covid" class="btn btn-primary">Atvert <i class="fas fa-arrow-circle-right"></i></a>
                     </div>
-                    <div class="info_block col-md">
-                        <h2>LOREM</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio deserunt blanditiis omnis eaque facilis soluta, cumque quas molestias voluptatum pariatur qui esse sint ab at reiciendis. Corporis error libero reiciendis.
-                        Quae ipsam est dolor eius nisi officia ut dolore nesciunt optio porro laboriosam eveniet consequuntur, accusantium sint! At temporibus culpa minus beatae reprehenderit ab earum. Deserunt sint quisquam natus harum.
-                        Fugiat, quam delectus. Magnam commodi ad exercitationem perferendis suscipit sequi sit, dicta ratione labore officia ipsa recusandae vitae dolor maxime nihil itaque asperiores, repellendus quaerat, rem consequuntur. Reiciendis, consectetur aliquid?
-                        Excepturi nemo, officiis non deleniti eos ipsam delectus veniam quibusdam id nesciunt, veritatis quaerat dolor ipsa eligendi doloremque. Quod delectus nam ullam sit rem sapiente quam dolore voluptates maiores labore?
-                        Hic officiis maiores beatae earum cum reiciendis cupiditate? Dolor, facilis quibusdam earum quaerat consectetur aperiam ad iste, saepe, nulla ducimus dolore eum. Nobis quis labore, libero qui adipisci harum dolorem!</p>
-                    </div>
+                  </div>
                 </div>
+                <div class="col-sm-6">
+                  <div class="card _wrapper_card_body">
+                    <div class="card-body">
+                      <h5 class="card-title">Pašizolācija</h5>
+                      <p class="card-text">Norobežošanās no tuviem kontaktiem ar jebkuru citu cilvēku</p>
+                      <a href="https://covid19.gov.lv/covid-19/drosibas-pasakumi/pasizolacija" class="btn btn-primary">Atvert <i class="fas fa-arrow-circle-right"></i></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="row _wrapper_card">
+                <div class="col-sm-6">
+                  <div class="card _wrapper_card_body">
+                    <div class="card-body">
+                      <h5 class="card-title">Stingra izolācija mājās</h5>
+                      <p class="card-text">Pilnīga norobežošanās no veseliem cilvēkiem, attiecās uz personām, kas saslimušas ar Covid-</p>
+                      <a href="https://covid19.gov.lv/covid-19/drosibas-pasakumi/stingra-izolacija-majas" class="btn btn-primary">Atvert <i class="fas fa-arrow-circle-right"></i></a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-sm-6">
+                  <div class="card _wrapper_card_body">
+                    <div class="card-body">
+                      <h5 class="card-title">Karantīna</h5>
+                      <p class="card-text">14 dienu karantīna ir obligāta, tās laikā personai jāatrodas mājās, slimnīcā vai īpaši paredzētā</p>
+                      <a href="https://covid19.gov.lv/covid-19/drosibas-pasakumi/karantina" class="btn btn-primary">Atvert <i class="fas fa-arrow-circle-right"></i></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="row _wrapper_card">
+                <div class="col-sm-6">
+                  <div class="card _wrapper_card_body">
+                    <div class="card-body">
+                      <h5 class="card-title">Fiziskā distancēšanās</h5>
+                      <p class="card-text">Sabiedrības norma, kas paredz izvairīšanos no tuviem kontaktiem ar citiem cilvēkiem</p>
+                      <a href="https://covid19.gov.lv/covid-19/drosibas-pasakumi/fiziska-distancesanas" class="btn btn-primary">Atvert <i class="fas fa-arrow-circle-right"></i></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
-        </div>        
-      </div>
-      <!-- Button trigger modal -->
+          </div>
+           <!-- Button trigger modal -->
     
 
       <!-- Modal Rīga -->
@@ -94,7 +116,6 @@
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo atque aperiam eveniet, voluptates quia nemo, assumenda nesciunt debitis mollitia iusto adipisci optio ab iste nostrum veniam esse pariatur. Possimus, labore.
               Dignissimos saepe minus id ullam earum ipsa officiis quos, nemo veritatis, voluptates atque deserunt rem similique voluptatum inventore totam nulla error repellat provident architecto, sed eius cumque aliquid. Odio, unde.
               Repellat optio maiores, maxime saepe porro repellendus consectetur praesentium, blanditiis soluta quia est aspernatur excepturi eum tempora accusamus ducimus tenetur consequatur accusantium pariatur expedita unde labore. Fugit, odit quo. Nobis!
-              Temporibus laborum qui esse quae. Veritatis doloremque voluptatibus quia numquam odit et praesentium accusantium laborum tempore doloribus iste, ipsum minus, voluptates laboriosam est consectetur voluptatem blanditiis accusamus ex. Ducimus, earum!
               Nihil quam, omnis veritatis ipsum eius aliquam consequuntur odit in autem dolorum quia dolorem ut beatae soluta corporis ad amet facilis officia non doloribus! Facere quos ratione eligendi accusamus numquam!
             </div>
             <div class="modal-footer mr-auto">
@@ -117,7 +138,6 @@
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo atque aperiam eveniet, voluptates quia nemo, assumenda nesciunt debitis mollitia iusto adipisci optio ab iste nostrum veniam esse pariatur. Possimus, labore.
               Dignissimos saepe minus id ullam earum ipsa officiis quos, nemo veritatis, voluptates atque deserunt rem similique voluptatum inventore totam nulla error repellat provident architecto, sed eius cumque aliquid. Odio, unde.
               Repellat optio maiores, maxime saepe porro repellendus consectetur praesentium, blanditiis soluta quia est aspernatur excepturi eum tempora accusamus ducimus tenetur consequatur accusantium pariatur expedita unde labore. Fugit, odit quo. Nobis!
-              Temporibus laborum qui esse quae. Veritatis doloremque voluptatibus quia numquam odit et praesentium accusantium laborum tempore doloribus iste, ipsum minus, voluptates laboriosam est consectetur voluptatem blanditiis accusamus ex. Ducimus, earum!
               Nihil quam, omnis veritatis ipsum eius aliquam consequuntur odit in autem dolorum quia dolorem ut beatae soluta corporis ad amet facilis officia non doloribus! Facere quos ratione eligendi accusamus numquam!
             </div>
             <div class="modal-footer mr-auto">
@@ -125,6 +145,8 @@
             </div>
           </div>
         </div>
+      </div>
+        </div>        
       </div>
     </main>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>

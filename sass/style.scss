@@ -87,3 +87,58 @@ h2 {
     outline: 0;
     sbox-shadow: none;
 }
+
+/*modal*/
+
+.information__covid__map {
+    position: relative;
+}
+
+.button_1 {
+    position: absolute;
+    top: 42.5%;
+    left: 40.5%;
+}
+
+.button_2 {
+    position: absolute;
+    top: 43%;
+    left: 36.5%;
+}
+
+.btn {
+    outline: 0;
+    box-shadow: none;
+
+    &:focus {
+        outline: 0;
+        box-shadow: none !important;
+    }
+}
+
+.focus {
+    outline: 0;
+    sbox-shadow: none;
+}
+
+/*card*/
+.information__covid_cards {
+    width: 100%;
+    border-top: solid red 2px;
+    border-bottom: solid red 2px;
+    padding-bottom: 25px;
+}
+
+._info_covid_header {
+    margin-top: 30px;
+    color: white;
+    margin-bottom: 45px;
+}
+
+._wrapper_card {
+    margin-top: 25px !important;
+}
+
+.fas {
+    margin-left: 10px;
+}
